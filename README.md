@@ -1,5 +1,5 @@
 # rvfCurvyEq-releases
-rvfCurvyEq releases - Windows VST3 builds
+rvf CurvyEq releases - Windows VST3 builds
 
 ## Support the project
 
